@@ -2,9 +2,9 @@
 *Ozon parcer without authentication (limit of review 94)*
 
 # Описание файлов
-main.py - основной скрипт, написанный на языке python.
-requirements.txt - библиотеки, необходимые для успешного запуска скрипта
-yandexdriver - драйвер, необходимый для работы selenium
+1. main.py - основной скрипт, написанный на языке python.
+2. requirements.txt - библиотеки, необходимые для успешного запуска скрипта
+3. yandexdriver - драйвер, необходимый для работы selenium
 
 # Для использования скрипта необходимо:
 1. Заменить путь к приложению яндекс браузер <sub> options.binary_location = '/Applications/Yandex.app/Contents/MacOS/Yandex' </sub>
